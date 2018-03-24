@@ -101,7 +101,7 @@ author:
   avatar           : https://gitlab.gnome.org/uploads/-/system/user/avatar/1292/avatar.png
   bio              : "Pre-final year CSE undergrad"
   location         : "Guwahati, India"
-  email            :
+  email            : "saurabh.2015@iitg.ac.in"
   uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -110,8 +110,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  gitlab           :
+  github           : https://github.com/1PunMan/
+  gitlab           : https://gitlab.gnome.org/1PunMan/
   google_plus      :
   keybase          :
   instagram        :
